@@ -1,6 +1,7 @@
 
 
 def calc_two_sums(a: int, b: int) -> None:
+    print("test")
     print("The number is:", str(a + b))
 
 
